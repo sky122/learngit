@@ -6,6 +6,9 @@ test001
 test
 嘎嘎嘎嘎嘎
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

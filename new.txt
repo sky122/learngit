@@ -1,3 +1,8 @@
 修改一下------
+<<<<<<< Updated upstream
 test001
 嘎嘎嘎嘎嘎---修复问题1
+=======
+test
+嘎嘎嘎嘎嘎
+>>>>>>> Stashed changes
